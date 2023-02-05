@@ -12,3 +12,15 @@ Para correrlo de forma local iniciamos haciendo un clone del repositorio
 [![clone.png](https://i.postimg.cc/cHzy9g8K/clone.png)](https://postimg.cc/phK6ydCx)
   
 
+```html
+Luego en la consola instalamos las dependencias con : 
+  
+  ```html
+      npm install
+  ```
+ Habiamos usado:
+ npm install react-data-table-component
+ npm install @emotion/react
+ npm install @emotion/styled
+ npm install react-csv
+```
