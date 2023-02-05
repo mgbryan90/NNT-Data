@@ -8,5 +8,6 @@ Es una pequeña app donde muestra una tabla de los usuarios de Jarvis SAC
 ```html
 Para correrlo de forma local iniciamos haciendo un clone del repositorio 
 ```
-
+<div align="center">
 [![clone.png](https://i.postimg.cc/cHzy9g8K/clone.png)](https://postimg.cc/phK6ydCx)
+</div>
