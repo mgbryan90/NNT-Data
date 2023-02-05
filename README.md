@@ -15,10 +15,9 @@ Para correrlo de forma local iniciamos haciendo un clone del repositorio
 ```html
 Luego en la consola instalamos las dependencias con : 
   
-  ```
-  ```html
-      npm install
-  ```
+   npm install
+```
+```html   
  Habiamos usado:
  npm install react-data-table-component
  npm install @emotion/react
