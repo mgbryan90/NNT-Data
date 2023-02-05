@@ -15,6 +15,7 @@ Para correrlo de forma local iniciamos haciendo un clone del repositorio
 ```html
 Luego en la consola instalamos las dependencias con : 
   
+  ```
   ```html
       npm install
   ```
