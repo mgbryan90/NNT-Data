@@ -13,7 +13,7 @@ Para correrlo de forma local iniciamos haciendo un clone del repositorio
 [![clone.png](https://i.postimg.cc/cHzy9g8K/clone.png)](https://postimg.cc/phK6ydCx)
   
 ```html   
- Habiamos usado:
+ En la siguiente App usamos:
  npm install react-data-table-component
  npm install @emotion/react
  npm install @emotion/styled
