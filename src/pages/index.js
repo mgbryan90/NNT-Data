@@ -21,7 +21,7 @@ export const TableUsers = () => {
   const showData = async () => {
     const response = await fetch(`${BASE_URL}/?results=15`);
     const data = await response.json();
-    console.log(data);
+    // console.log(data);
     setUsers(data.results);
   };
 
@@ -31,7 +31,7 @@ export const TableUsers = () => {
 
   return (
     <Container>
-      <Title> Lista de Usuarios "Jarvis SAC" </Title>
+      <Title> Lista de Usuarios "SHIELD" </Title>
       <ContainerOptions>
         <CSVLink
           data={users}
